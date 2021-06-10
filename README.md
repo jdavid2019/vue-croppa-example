@@ -1,3 +1,17 @@
+
+
+#  https://zhanziyang.github.io/vue-croppa/
+```
+npm install --save vue-croppa
+
+import Vue from 'vue'
+import Croppa from 'vue-croppa'
+
+Vue.use(Croppa)
+
+y funciona
+```
+
 # test-vuejs-recorte-hd
 
 ## Project setup
