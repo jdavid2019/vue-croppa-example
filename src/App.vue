@@ -31,6 +31,8 @@
    <button @click="croppa.flipX()">Rotación espejo</button>
    <button @click="croppa.rotate()">Rotación</button>
    <!--   Como te llama? <br>
+     https://sites.google.com/site/tumentororg/javascript/eventos-mousedown-y-mouseup
+      https://stackoverflow.com/questions/45399923/eslint-disable-warning-defined-but-never-used-for-specific-function
       <input type="text" v-model="nombre"> {{ mensaje }} -->
    <!-- <a href="https://zhanziyang.github.io/vue-croppa/#/file-output">D O C U M E N T A C I O N</a>
     <croppa
